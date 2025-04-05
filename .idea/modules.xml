@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TallerCollections.iml" filepath="$PROJECT_DIR$/TallerCollections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TallerListasEnlazadas/TallerListasEnlazadas.iml" filepath="$PROJECT_DIR$/TallerListasEnlazadas/TallerListasEnlazadas.iml" />
+    </modules>
+  </component>
+</project>
