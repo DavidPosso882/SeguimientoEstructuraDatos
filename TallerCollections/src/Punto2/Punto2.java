@@ -7,7 +7,7 @@ public class Punto2 {
     public static void main(String[] args) {
 
         //stack.push(new Persona ("Daniela",20,"Estudiante"));
-        apilar(new Persona("Dani",20,"estudiante"));
+        apilar(new Persona1("Dani",20,"estudiante"));
 
     }
     public static void apilar(Object ob){

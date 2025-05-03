@@ -1,11 +1,11 @@
 package Punto2;
 
-public class Persona {
+public class Persona1 {
     private String nombre;
     private int edad;
     private String ocupacion;
 
-    public Persona(String nombre, int edad, String ocupacion) {
+    public Persona1(String nombre, int edad, String ocupacion) {
         this.nombre = nombre;
         this.edad = edad;
         this.ocupacion = ocupacion;
